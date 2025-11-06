@@ -1,0 +1,4 @@
+settings:
+  # Should Nexo automatically generate sounds.json according to your settings?
+  generate_sounds: true
+sounds: []
