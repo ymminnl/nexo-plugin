@@ -1,4 +1,16 @@
 settings:
   # Should Nexo automatically generate sounds.json according to your settings?
   generate_sounds: true
-sounds: []
+sounds:
+  arcane_ekko_jinx:
+    id: "music.arcane_ekko_jinx"
+    sound: "nexo:arcane_ekko_jinx"
+    stream: true
+    volume: 1.0
+    pitch: 1.0
+    jukebox_playable:
+      comparator_output: 15
+      length_in_seconds: 180.0
+      description:
+        text: "Arcane - Ma Meilleure Ennemie (Ekko & Jinx)"
+        color: "aqua"
