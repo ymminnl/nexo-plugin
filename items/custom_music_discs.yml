@@ -1,0 +1,12 @@
+# Custom Music Discs
+arcane_music_disc:
+  itemname: "<aqua>Music Disc</aqua>"
+  material: MUSIC_DISC_13
+  Pack:
+    custom_model_data: 1001
+  Lore:
+    - "<gray>Arcane - Ma Meilleure Ennemie</gray>"
+    - "<dark_gray>Ekko & Jinx</dark_gray>"
+  Components:
+    jukebox_playable:
+      song: "nexo:arcane_ekko_jinx"
